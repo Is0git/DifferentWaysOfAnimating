@@ -1,0 +1,4 @@
+#Sun Nov 17 20:42:52 EET 2019
+base.0=D\:\\Downloads\\teams\\views-widgets-samples-master\\AnimationsPractise\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
