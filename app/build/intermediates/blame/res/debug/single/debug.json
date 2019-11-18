@@ -4,8 +4,16 @@
         "source": "D:\\Downloads\\teams\\views-widgets-samples-master\\AnimationsPractise\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
+        "merged": "D:\\Downloads\\teams\\views-widgets-samples-master\\AnimationsPractise\\app\\build\\intermediates\\res\\merged\\debug\\anim_anim.xml.flat",
+        "source": "D:\\Downloads\\teams\\views-widgets-samples-master\\AnimationsPractise\\app\\src\\main\\res\\anim\\anim.xml"
+    },
+    {
         "merged": "D:\\Downloads\\teams\\views-widgets-samples-master\\AnimationsPractise\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
         "source": "D:\\Downloads\\teams\\views-widgets-samples-master\\AnimationsPractise\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Downloads\\teams\\views-widgets-samples-master\\AnimationsPractise\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_vector_drawable.png.flat",
+        "source": "D:\\Downloads\\teams\\views-widgets-samples-master\\AnimationsPractise\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\vector_drawable.png"
     },
     {
         "merged": "D:\\Downloads\\teams\\views-widgets-samples-master\\AnimationsPractise\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
@@ -20,12 +28,12 @@
         "source": "D:\\Downloads\\teams\\views-widgets-samples-master\\AnimationsPractise\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "D:\\Downloads\\teams\\views-widgets-samples-master\\AnimationsPractise\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "D:\\Downloads\\teams\\views-widgets-samples-master\\AnimationsPractise\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
-    },
-    {
         "merged": "D:\\Downloads\\teams\\views-widgets-samples-master\\AnimationsPractise\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
         "source": "D:\\Downloads\\teams\\views-widgets-samples-master\\AnimationsPractise\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Downloads\\teams\\views-widgets-samples-master\\AnimationsPractise\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Downloads\\teams\\views-widgets-samples-master\\AnimationsPractise\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
         "merged": "D:\\Downloads\\teams\\views-widgets-samples-master\\AnimationsPractise\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
@@ -48,12 +56,32 @@
         "source": "D:\\Downloads\\teams\\views-widgets-samples-master\\AnimationsPractise\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
     },
     {
+        "merged": "D:\\Downloads\\teams\\views-widgets-samples-master\\AnimationsPractise\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_vector_drawable.png.flat",
+        "source": "D:\\Downloads\\teams\\views-widgets-samples-master\\AnimationsPractise\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\vector_drawable.png"
+    },
+    {
         "merged": "D:\\Downloads\\teams\\views-widgets-samples-master\\AnimationsPractise\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
         "source": "D:\\Downloads\\teams\\views-widgets-samples-master\\AnimationsPractise\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
+        "merged": "D:\\Downloads\\teams\\views-widgets-samples-master\\AnimationsPractise\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_vector_drawable.png.flat",
+        "source": "D:\\Downloads\\teams\\views-widgets-samples-master\\AnimationsPractise\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\vector_drawable.png"
+    },
+    {
+        "merged": "D:\\Downloads\\teams\\views-widgets-samples-master\\AnimationsPractise\\app\\build\\intermediates\\res\\merged\\debug\\animator_vector_animation.xml.flat",
+        "source": "D:\\Downloads\\teams\\views-widgets-samples-master\\AnimationsPractise\\app\\src\\main\\res\\animator\\vector_animation.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\teams\\views-widgets-samples-master\\AnimationsPractise\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_vector_drawable.png.flat",
+        "source": "D:\\Downloads\\teams\\views-widgets-samples-master\\AnimationsPractise\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\vector_drawable.png"
+    },
+    {
         "merged": "D:\\Downloads\\teams\\views-widgets-samples-master\\AnimationsPractise\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
         "source": "D:\\Downloads\\teams\\views-widgets-samples-master\\AnimationsPractise\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Downloads\\teams\\views-widgets-samples-master\\AnimationsPractise\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_vector_drawable.png.flat",
+        "source": "D:\\Downloads\\teams\\views-widgets-samples-master\\AnimationsPractise\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\vector_drawable.png"
     },
     {
         "merged": "D:\\Downloads\\teams\\views-widgets-samples-master\\AnimationsPractise\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
@@ -66,6 +94,10 @@
     {
         "merged": "D:\\Downloads\\teams\\views-widgets-samples-master\\AnimationsPractise\\app\\build\\intermediates\\res\\merged\\debug\\drawable_start_pause_animation.xml.flat",
         "source": "D:\\Downloads\\teams\\views-widgets-samples-master\\AnimationsPractise\\app\\src\\main\\res\\drawable\\start_pause_animation.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\teams\\views-widgets-samples-master\\AnimationsPractise\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_vector_drawable.png.flat",
+        "source": "D:\\Downloads\\teams\\views-widgets-samples-master\\AnimationsPractise\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\vector_drawable.png"
     },
     {
         "merged": "D:\\Downloads\\teams\\views-widgets-samples-master\\AnimationsPractise\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
@@ -90,6 +122,10 @@
     {
         "merged": "D:\\Downloads\\teams\\views-widgets-samples-master\\AnimationsPractise\\app\\build\\intermediates\\res\\merged\\debug\\drawable_start.png.flat",
         "source": "D:\\Downloads\\teams\\views-widgets-samples-master\\AnimationsPractise\\app\\src\\main\\res\\drawable\\start.png"
+    },
+    {
+        "merged": "D:\\Downloads\\teams\\views-widgets-samples-master\\AnimationsPractise\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_vector_drawable.xml.flat",
+        "source": "D:\\Downloads\\teams\\views-widgets-samples-master\\AnimationsPractise\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\vector_drawable.xml"
     },
     {
         "merged": "D:\\Downloads\\teams\\views-widgets-samples-master\\AnimationsPractise\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
